@@ -5,5 +5,5 @@ Python implementation for the market basket analysis.
 ## Algorithm
 1- Apriori Algorithm
 
-Just clone and run the files to get output.
+Just clone and run the files to get output. <br/>
 Hope this may help....!
